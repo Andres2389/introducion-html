@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1200px;
+    height: 1200px;
+    background-color: hsl(0, 86%, 44%);
+    margin: 1cm  auto;
+    padding: 0.5em;
+    
+}
+#header{
+    height:15%;
+    width:97%;
+    background:#042a8a;
+    border-radius:5em;
+    margin:1em;
+}
+#header:hover{
+    background-color: rgb(68, 149, 149);
+    transition: all 1s;
+    animation: forwards;
+    cursor: pointer;
+
+}
+.p1{
+    font-size: 33px;
+    margin: 5px,5px;
+}
+#nav{
+    
+    height:10%;
+    width: 97%;
+    background:#052880;
+    border-radius:1em ;
+    margin: 1em;
+    
+}
+#contenido{
+height:53%;
+width:97%;
+background-color: #3d63cfba;
+margin:1em;
+}
+#piedepagina{
+    height:15.5%;
+    width:97%;
+    background-color: #454545;
+    border-radius: 1em;
+    margin: 1em;
+}
+#section1{
+    height: 95%;
+    width: 53%;
+    background-color: rgb(30, 197, 139);
+    border-radius: 1em;
+    margin: 1em;
+    float: left;
+}
+#section2{
+    height: 98%;
+    width: 29%;
+    background-color: rgb(25, 37, 107);
+    border-radius: 1em;
+    margin: 0.5em;
+    float: right;
+}
+.articulo{
+    width: 95%;
+    height: 25%;
+    background: rgb(105, 60, 60) ;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+.foto1{
+    width: 13   %;
+    height: 50%;
+    float: left;
+}
+    
+
